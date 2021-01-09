@@ -1,0 +1,2 @@
+# seichi915LoginMsg
+seichi915Network ログイン・ログアウトメッセージ変更プラグイン
