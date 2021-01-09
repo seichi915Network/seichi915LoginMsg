@@ -1,0 +1,8 @@
+name: Seichi915LoginMsg
+version: 1.0.0
+main: net.seichi915.seichi915loginmsg.Seichi915LoginMsg
+api-version: "1.13"
+load: POSTWORLD
+authors: [stouma915]
+description: "seichi915Network ログイン・ログアウトメッセージ変更プラグイン"
+website: https://www.seichi915.net
